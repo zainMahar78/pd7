@@ -14,3 +14,4 @@ void diamond(int rowsize){
         cout<<endl;
 }
 }
+// hello world
